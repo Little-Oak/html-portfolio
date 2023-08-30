@@ -1,2 +1,2 @@
-# html-portfolip
+# html-portfolio
 Test server hosted website
